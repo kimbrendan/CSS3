@@ -1,0 +1,68 @@
+
+body {
+  color: black;
+  background-color: #e2d1c3 ;
+  font-family: 'monospace', sans-serif;
+  font-weight: bold;
+  background: url(image2.jpeg);
+}
+
+
+
+header {
+  background-color:#e2d1c3  ;
+  height: 80px;
+  width: 500px;
+  padding: 20px;
+}
+
+nav  {
+    background-color: #e2d1c3 ;
+  }
+  a:hover {
+    color: black;
+         }
+  a:visited {
+    color: grey;
+               }
+h1 {
+  font-family: 'roboto', cursive;
+}
+
+h2{ font-family: 'roboto', cursive;
+}
+
+h3{
+font-family: 'roboto', cursive;}
+
+main {
+      background-color: #e2d1c3  ;
+      border: 10px dashed #e2d1c3  ;
+      padding: 20px 20px 10px 20px;
+      margin: auto;
+      width: 70%;
+      height: 650px;
+      text-align: left;
+      letter-spacing: .25px;
+      line-height: 30px;
+    }
+
+    .information {
+      background-color: #fdfcfb;
+    }
+
+    .what {
+
+      padding: 5px 5px 5px 5px;
+    }
+
+    .why {
+      padding: 5px 5px 5px 5px;
+      margin: 55px 20px 10px 0px;
+    }
+
+    .image1 {
+
+      height: 425px;
+      width: 875px;
+    }
